@@ -1,2 +1,2 @@
-# people_capacity_limitator
+# people_capacity_limitation
 People capacity limitation for a physical store
